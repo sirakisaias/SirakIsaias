@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about all programming related to FullStack Web Dev.
 - 📫 How to reach me: hailemichaelsirak@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: love playing Soccer.
+- ⚡ Fun fact: I am originally from a country called Eritrea in East Africa.
 
